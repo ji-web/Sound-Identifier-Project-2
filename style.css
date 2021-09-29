@@ -1,0 +1,39 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-color:cornflowerblue;
+    
+}
+
+.header_div{
+    background-color:rgb(245, 135, 94);
+    color:black;
+
+}
+
+.header_div p{
+    font-family: 'Stick No Bills', sans-serif;
+    color: Black;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    letter-spacing:3px;
+    width: 100px;
+    margin-top: 20px;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color: maroon;
+    width:100%;
+    font-size:20px;
+    bottom:0px;
+    background-color: skyblue;
+    text-align:center;
+    line-height: 4;
+    text-shadow: 5px 5px 5px gray;
+}
